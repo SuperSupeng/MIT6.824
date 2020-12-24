@@ -22,3 +22,5 @@ MIT6.824-2020课程学习笔记与总结
 
  [![DDIA](https://img2.doubanio.com/view/subject/s/public/s29872642.jpg)](https://book.douban.com/subject/30329536//)
 
+书中引用：[https://github.com/ept/ddia-references](https://github.com/ept/ddia-references)
+
