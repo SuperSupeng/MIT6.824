@@ -1,5 +1,5 @@
 # MIT6.824
-MIT6.824-2020课程学习笔记与总结
+MIT6.824-2020课程学习笔记与总结，遵循协议实验代码不开放，仅提供思路。
 
 ## 相关资料
 
@@ -20,7 +20,8 @@ MIT6.824-2020课程学习笔记与总结
 
 ## 推荐资源
 
- [![DDIA](https://img2.doubanio.com/view/subject/s/public/s29872642.jpg)](https://book.douban.com/subject/30329536//)
+ - [![DDIA](https://img2.doubanio.com/view/subject/s/public/s29872642.jpg)](https://book.douban.com/subject/30329536//)
 
 书中引用：[https://github.com/ept/ddia-references](https://github.com/ept/ddia-references)
 
+- [Distributed-Systems](https://github.com/feixiao/Distributed-Systems)
