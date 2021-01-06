@@ -11,11 +11,14 @@ MIT6.824-2020课程学习笔记与总结，遵循协议实验代码不开放，�
 ## 课程
 
 ### lab1: MapReduce
-核心思想：
+
+论文链接：[MapReduce: Simplified Data Processing on Large Clusters](./pdf/mapreduce.pdf)
+
+**核心思想：**
 
 ![mapreduce](./img/mapreduce.png)
 
-算法流程：
+**算法流程：**
 
 <details><summary>英文版</summary>
 
