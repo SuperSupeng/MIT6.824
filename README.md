@@ -14,6 +14,8 @@ MIT6.824-2020课程学习笔记与总结，遵循协议实验代码不开放，�
 
 论文链接：[MapReduce: Simplified Data Processing on Large Clusters](./pdf/mapreduce.pdf)
 
+实验手册：[lab1](lab1.md)
+
 **核心思想：**
 
 ![mapreduce](./img/mapreduce.png)
@@ -53,3 +55,6 @@ MIT6.824-2020课程学习笔记与总结，遵循协议实验代码不开放，�
 书中引用：[https://github.com/ept/ddia-references](https://github.com/ept/ddia-references)
 
 - [Distributed-Systems](https://github.com/feixiao/Distributed-Systems)
+
+- [谷歌大数据三大论文](https://www.jianshu.com/p/7df00b383fa1)
+- [Hadoop大数据技术原理](https://www.bilibili.com/video/BV13i4y147nh?p=8)
