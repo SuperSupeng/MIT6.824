@@ -15,4 +15,12 @@
 # vendor/
 
 .idea
-mapreduce/
+src/
+*.*/
+mrtmp.*
+824-mrinput-*.txt
+/main/diff.out
+/mapreduce/x.txt
+/pbservice/x.txt
+/kvpaxos/x.txt
+*.so
