@@ -44,6 +44,8 @@ MIT6.824-2020课程学习笔记与总结，遵循协议实验代码不开放，�
 
 ### lab2: Raft
 
+论文链接：[In Search of an Understandable Consensus Algorithm (Extended Version)](https://pdos.csail.mit.edu/6.824/papers/raft-extended.pdf) [中文](https://mp.weixin.qq.com/s/zMnqOCUVvRLQuJUwvM3QRA)
+
 ### lab3: KV_Raft
 
 ### lab4: Sharded_KV
